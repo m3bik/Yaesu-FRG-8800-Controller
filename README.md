@@ -5,6 +5,12 @@ Windows controller software for the Yaesu FRG-8800 receiver.
 Version 2.0.2  
 Written by M3BIK
 
+## About
+
+The Yaesu FRG-8800 is a classic shortwave communications receiver introduced around 1984, popular with radio enthusiasts for listening to international broadcasts and amateur radio transmissions.
+
+Its CAT interface allows compatible computer software to control functions such as frequency tuning and operating mode. The Yaesu FRG-8800 Controller Software by M3BIK brings these capabilities to a Windows PC, with frequency control and locally stored memory channels, live online station lookups and many other features. 
+
 ## Download
 
 Download the Windows installer from the [Latest Release](../../releases/latest).
