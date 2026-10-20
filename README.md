@@ -15,7 +15,7 @@ Its CAT interface allows compatible computer software to control functions such 
 
 Download the Windows installer from the [Latest Release](../../releases/latest).
 
-Want to know what all the options in the software do ? Check out the Wiki - https://github.com/m3bik/Yaesu-FRG-8800-Controller/wiki
+Want to know what all the options in the software do ? Check out the Wiki - https://github.com/m3bik/Yaesu-FRG-8800-Controller/wiki/Using-The-Software
 
 Website: https://www.m3bik.co.uk
 
